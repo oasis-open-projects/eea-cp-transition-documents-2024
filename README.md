@@ -15,11 +15,15 @@ This repository is intended to a place to collect this historical data or links 
   
 2) [https://lists.oasis-open-projects.org/g/ethereum-oasis/topics](https://lists.oasis-open-projects.org/g/eea-community-projects/topics) - Pointer to the locked and archived general project mailing list for the EEA Community Projects. 
 
-3) [https://lists.oasis-open-projects.org/g/eea-community-projects-pgb/topics](https://lists.oasis-open-projects.org/g/eea-community-projects-pgb/topics) - Pointer to the locked and archived mailing list for the Project Governing Board of the EEA Community Projects. 
+3) [https://lists.oasis-open-projects.org/g/eea-community-projects-pgb/topics](https://lists.oasis-open-projects.org/g/eea-community-projects-pgb/topics) - Pointer to the locked and archived mailing list for the Project Governing Board of the EEA Community Projects.
 
-4) - Extracted list of subscribers to ethereum-oasis@ mailing list in csv format
+4) [https://lists.oasis-open-projects.org/g/eea-cp-l2/topics](https://lists.oasis-open-projects.org/g/eea-cp-l2/topics) – Pointer to the locked and archived mailing list for the EEA Community Projects L2 project.
 
-5)  - Extracted list of subscribers to ethereum-oasis-pgb@ mailing list in csv format. Only members of the PGB were allowed to post
+5) [https://lists.oasis-open-projects.org/g/eea-cp-tokenscript/topics](https://lists.oasis-open-projects.org/g/eea-cp-tokenscript/topics) - Pointer to the locked and archived mailing list for the EEA Community Projects Tokenscript project.
 
-6) eea-oasis-clas-2024-04-03.csv - Extract of the CLA Assistant i-cla signatures at time of name change in csv format
+6) Extracted list of subscribers to ethereum-oasis@ mailing list in csv format
+
+7)  - Extracted list of subscribers to ethereum-oasis-pgb@ mailing list in csv format. Only members of the PGB were allowed to post
+
+8) eea-oasis-clas-2024-04-03.csv - Extract of the CLA Assistant i-cla signatures at time of name change in csv format
 
