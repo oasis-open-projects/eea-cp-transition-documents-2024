@@ -1,0 +1,11 @@
+Email,User ID,Member ID,Display Name,Username,Joined,Status,Post Status,Email Delivery,Message Selection,Auto Follow Replies,Mod Status,User Status
+barbara@smarttokenlabs.com,7851518,12606293,,,11/09/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+bob@smarttokenlabs.com,7765639,12483916,Bob Jiang,bobjiang,26/07/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_summary,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+ciphertang@gmail.com,7851519,12606294,,,11/09/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+claudia.rauch@oasis-open.org,6007290,12479676,Claudia Rauch,claurau,25/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_owner,user_status_confirmed
+frank@accountlabs.com,7764295,12481876,Frank Lou,,25/07/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_html_digest,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+jiangxb@gmail.com,7851520,12606295,,,11/09/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+miccy@smarttokenlabs.com,7764278,12481835,Miccy,,25/07/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+shalomlee147@gmail.com,7851521,12606296,,,11/09/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+sunil@alphawallet.com,7815259,12557768,,,24/08/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+w@smarttokenlabs.com,6833832,12602838,Weiwu Zhang,,09/09/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed

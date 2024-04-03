@@ -1,0 +1,50 @@
+Email,User ID,Member ID,Display Name,Username,Joined,Status,Post Status,Email Delivery,Message Selection,Auto Follow Replies,Mod Status,User Status
+a22deimetson@gmail.com,7513191,12116867,Ae Thek,,08/03/2023,sub_status_normal,sub_poststatus_newusermoderated,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+a.freundhaskel@gmail.com,4754658,11009476,Andreas Freund,highlander1969,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+alan@enya.ai,7010015,11442507,,,29/06/2022,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+alimk@vmware.com,6700078,11009528,Alim Karim,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+anav@polygon.technology,7827530,12574889,Anav,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+aofranc@consianimis.com,5391461,12442904,Anais Ofranc,,10/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+brnacc011@gmail.com,6566290,11108944,51-50,a_51_50,22/02/2022,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+bruno.maia@cartesi.io,6700084,11009534,bruno.maia@cartesi.io,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_bounced
+Cale.Teeter@microsoft.com,6174181,11009502,Cale Teeter,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+ccordle@offchainlabs.com,7827532,12574891,Chris,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+chet.ensign@oasis-open.org,1835704,11009586,Chet Ensign,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_owner,user_status_confirmed
+claudia.rauch@oasis-open.org,6007290,11009456,Claudia Rauch,claurau,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_owner,user_status_confirmed
+cody.burns@accenture.com,6700079,11009529,cody.burns@accenture.com,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+daniel.shaw@ethereum.org,6700075,11009525,Dan Shaw,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+david.h.katz@accenture.com,6700090,11009540,"Katz, David H.",,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+declan.fox@consensys.net,7749039,12457642,Declan,,16/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_html_digest,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+dshaw@ethereum.org,6714245,11029337,Dan Shaw,dshaw_,26/01/2022,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+gabriel.barros@cartesi.io,7113293,11582808,Gabriel Barros,,19/08/2022,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_bounced
+imran.m.bashir@jpmorgan.com,6700087,11009537,"Bashir, Imran M",,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+isha@matterlabs.dev,6700092,11009542,isha,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+james.zaki@pm.me,6920174,11329025,,,12/05/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+joe@aztecprotocol.com,6700077,11009527,Joe Andrews,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+jpknegtel7@protonmail.com,7827535,12574894,Johnathan,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+julien.marchand@consensys.net,6700085,13143315,julien.marchand@consensys.net,,19/03/2024,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+kartheek.solipuram@ey.com,6700080,11009530,Kartheek Solipuram,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+kelvin@oplabs.co,7827536,12574895,Kelvin,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+kelvin@optimism.io,6926462,11336719,,,16/05/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+lg@matterlabs.dev,7841895,12590980,Landon,,06/09/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+matt@offchainlabs.com,7827537,12574896,Matt,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+mc@matterlabs.dev,6700091,11009541,marco cora,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+molly.beach@accenture.com,7827538,12574897,Molly,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+nicolas.liochon@consensys.net,6700086,11009536,nicolas.liochon@consensys.net,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+nikolai.p@metis.io,7742840,12449290,Nikolai,,12/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+oa@matterlabs.dev,7759254,12473814,Omar,,22/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_html_digest,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+paul.knight@oasis-open.org,1952399,12232096,Paul Knight,,20/04/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+rahul@connext.network,6700082,11009532,rahul@connext.network,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+rami.h@metis.io,7543159,12448512,Rami Husami,,12/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+ravi@polygon.technology,6700088,11009538,ravi@polygon.technology,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+rc@matterlabs.dev,7738545,12442895,RC,,10/07/2023,sub_status_normal,sub_poststatus_normal,email_delivery_summary,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+robert.drost@mesh.xyz,6700076,11009526,robert.drost@mesh.xyz,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+samrat@goldennext.in,6516828,11009496,Samrat Kishor,samratkishor,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+seb@perun.network,6700083,11009533,seb@perun.network,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+souradeep@enya.ai,7062218,11508264,Souradeep Das,,25/07/2022,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+steven@offchainlabs.com,6700089,11009539,steven@offchainlabs.com,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+tas.dienes@ethereum.org,4325101,11009478,Tas Dienes,,20/01/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+tom.n@metis.io,7827539,12574898,Tom,,30/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+travisrussellwood@gmail.com,6468031,11072481,TRWood,,09/02/2022,sub_status_normal,sub_poststatus_normal,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+yoav@ethereum.org,7778204,12503873,Yoav,,03/08/2023,sub_status_normal,sub_poststatus_normal,email_delivery_html_digest,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+yuan.s@metis.io,6920173,11329024,Yuan Su,,12/05/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
