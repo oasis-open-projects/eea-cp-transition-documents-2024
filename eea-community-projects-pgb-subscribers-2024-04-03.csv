@@ -1,0 +1,21 @@
+Email,User ID,Member ID,Display Name,Username,Joined,Status,Post Status,Email Delivery,Message Selection,Auto Follow Replies,Mod Status,User Status
+a.freundhaskel@gmail.com,4754658,11343247,Andreas Freund,highlander1969,18/05/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+antonio.sabado@nethermind.io,5825506,10449896,,,29/06/2021,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+brnacc011@gmail.com,6566290,11176702,51-50,a_51_50,15/03/2022,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+carol.geyer@oasis-open.org,1848276,10449884,Carol Geyer,carol.geyer,29/06/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+chet.ensign@oasis-open.org,1835704,10449843,Chet Ensign,,29/06/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_owner,user_status_confirmed
+claudia.rauch@oasis-open.org,6007290,10449885,Claudia Rauch,claurau,29/06/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_owner,user_status_confirmed
+daniel.burnett@entethalliance.org,4820360,10449888,Daniel Burnett,,29/06/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+george@lay2.dev,7577067,12204266,,,10/04/2023,sub_status_normal,sub_poststatus_newusermoderated,email_delivery_special,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+James.Canterbury@ey.com,6519624,10796356,James Canterbury,jamescbury,28/10/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_bounced
+jason.pancis@envisionblockchain.com,4400696,11074995,Jason Pancis,,10/02/2022,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+jharnad@oasis-open.org,1972246,10449887,Jane Harnad,,29/06/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+kelly.cullinane@oasis-open.org,7403315,11991778,Kelly Cullinane,,25/01/2023,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_owner,user_status_confirmed
+noam@morpheus.network,4402711,10449904,Noam Eppel,noameppel,29/06/2021,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+olu@montech.io,6522274,10798826,Olumide Akinwande,,29/10/2021,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+peter@nethermind.io,7024904,11462228,Peter Kecman,,07/07/2022,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+samrat@goldennext.in,6516828,11595159,Samrat Kishor,samratkishor,24/08/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+sonal.patel@mesh.xyz,6389341,11543349,,,05/08/2022,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_bounced
+sonalpateltech@gmail.com,8229037,13031378,Sonal Patel,,09/02/2024,sub_status_normal,sub_poststatus_newusermoderated,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
+tas.dienes@ethereum.org,4325101,10449889,Tas Dienes,,29/06/2021,sub_status_normal,sub_poststatus_allowed,email_delivery_single,message_selection_all,false,sub_modstatus_moderator,user_status_confirmed
+tracy.a.kuhrt@accenture.com,1870703,10449893,"Kuhrt, Tracy A.",,29/06/2021,sub_status_normal,sub_poststatus_notallowed,email_delivery_single,message_selection_all,false,sub_modstatus_none,user_status_confirmed
